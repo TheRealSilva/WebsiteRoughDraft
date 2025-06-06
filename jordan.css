@@ -1,0 +1,113 @@
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px solid;
+    font-size: 12px;
+}
+#box1{
+    width: 600px;
+    height: 300px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-right: 80px;
+    margin-top: 30px;
+    
+}
+#img1{
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+#font1{
+    font-family: "lucidia console";
+    font-size: 20px;
+    color: #333;
+}
+#title{
+    font-family: verdana;
+
+}
+#home{
+    font-family: verdana;
+    font-size: 14px;
+    color: #333;
+}
+#about{
+    font-family: verdana;
+    font-size: 14px;
+    color: #333;
+}
+#projects{
+    font-family: verdana;
+    font-size: 14px;
+    color: #333;
+}
+#contact{
+    font-family: verdana;
+    font-size: 14px;
+    color: #333;
+}
+#button1{
+    width: 150px;
+    height: 50px;
+    background-color: #52a5ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+#linkedin{
+    font-family: verdana;
+    font-size: 14px;
+    color: #333;
+    margin-left: 10px;
+}
+#box2{
+    margin-top: 50px;
+    background-color: gray;
+    width: 200PX;
+    height: 70px;
+}
+#box3{
+    margin-top: 50px;
+    background-color: gray;
+    width: 200PX;
+    height: 70px;
+}
+#link{
+    margin-right: 300px;
+}
+#python{
+    margin-top: 50px;
+    height: 150px;
+    width: 150px;
+    margin-left: 130px;
+
+}
+#java{
+    margin-top: 50px;
+    margin-left:80px;
+    height: 150px;
+    width: 150px;
+}
+#web{
+    margin-left: 50px;
+    height: 150px;
+    width: 310px;
+}
+#c{
+    margin-left: 120px;
+    height: 120px;
+    width: 120px;
+}
+#go{
+    margin-left: 50px;
+    height: 150px;
+    width: 150px;
+}
+#portfolio{
+    margin-left: 50px;
+}
